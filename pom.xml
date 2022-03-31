@@ -12,7 +12,7 @@
     <description>基于spring4.0x版本的rabbitmq极简封装</description>
 
     <properties>
-        <spring.version>4.0.9.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <project.build.targetJDK>1.8</project.build.targetJDK>
         <plugin.checkstyle.version>2.17</plugin.checkstyle.version>
         <plugin.pmd.version>3.4</plugin.pmd.version>
